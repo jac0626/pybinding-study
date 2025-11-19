@@ -9,6 +9,12 @@ dist/
 build/
 *.whl
 
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
 # CMake
 CMakeCache.txt
 CMakeFiles/
